@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "I7goqBw9eITVPJjmTd/sJIhioQ5xKyQQg+iG+zkc9IY=",
+  "Source": "FileManagementAPI",
+  "BasePath": "_content/FileManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
