@@ -64,7 +64,7 @@ Backend varsayılan olarak `http://localhost:5167` adresinde çalışır.
 cd FileManagementAPI/frontend
 ```
 
-4. **Uygulamayı çalıştırın**
+2. **Uygulamayı çalıştırın**
 ```bash
 npm run dev
 ```
