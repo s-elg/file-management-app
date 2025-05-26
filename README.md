@@ -1,6 +1,6 @@
 # File Management System
 
-Modern ve güvenli bir dosya yönetim sistemi. Kullanıcılar kayıt olup, giriş yaparak dosyalarını yükleyebilir, görüntüleyebilir ve silebilirler.
+Modern ve güvenli bir dosya yönetim sistemi oluşturdum. Kullanıcılar kayıt olup, giriş yaparak dosyalarını yükleyebilir, görüntüleyebilir ve silebilirler.
 
 ## 🚀 Özellikler
 
@@ -39,22 +39,32 @@ Modern ve güvenli bir dosya yönetim sistemi. Kullanıcılar kayıt olup, giri�
 
 ### Gereksinimler
 - .NET 8.0+ SDK
-- Node.js 18+
+- Node.js 18+ (sadece frontend için)
 - npm veya yarn
 - Modern web browser
 
-### Backend 
+### Backend
 
-**Uygulamayı çalıştırın**
+1. **Proje klasörüne gidin**
+```bash
+cd FileManagementAPI
+```
+
+2. **Uygulamayı çalıştırın**
 ```bash
 dotnet run
 ```
 
 Backend varsayılan olarak `http://localhost:5167` adresinde çalışır.
 
-### Frontend
+### Frontend Kurulumu
 
-**Uygulamayı çalıştırın**
+1. **Proje klasörüne gidin**
+```bash
+cd FileManagementAPI/frontend
+```
+
+4. **Uygulamayı çalıştırın**
 ```bash
 npm run dev
 ```
